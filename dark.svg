@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610"
-     role="img" aria-label="Vaibhav Khushalani — creative developer profile banner">
+     role="img" aria-label="Manish Karki — creative developer profile banner">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#030712"/>
@@ -87,7 +87,7 @@
   <!-- RIGHT PANEL -->
   <g class="mono">
     <g opacity="0">
-      <text x="520" y="120" class="name">Vaibhav Khushalani</text>
+      <text x="520" y="120" class="name">Manish karki</text>
       <text x="520" y="148" class="headline">CREATIVE DEVELOPER · CINEMATIC WEB · AI WORKFLOWS</text>
       <animate attributeName="opacity" values="0;1" dur=".5s" begin=".1s" fill="freeze"/>
     </g>
