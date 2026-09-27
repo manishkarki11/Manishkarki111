@@ -106,7 +106,7 @@ AI-powered platform combining an **AI prompt marketplace, Creator Hub and multip
 - **Node.js · Socket.IO**
 
 ### 🌐 WUWB — Goal Tracking Platform
-[wuwb.in](https://wuwb.np)
+[wuwb.in](https://osint.np)
 
 - Full-stack goal tracking platform
 - User interaction and dynamic application workflows
