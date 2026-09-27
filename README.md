@@ -1,4 +1,4 @@
-# Hi, I'm Vaibhav Khushalani 👋
+# Hi, I'm Manish Karki 🩵👹 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
@@ -154,7 +154,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <img src="https://gh-readme-profile.vercel.app/api?username=manishkarki11&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
 </p>
 
 <h2 align="center">Contribution Activity</h2>
