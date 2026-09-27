@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
+  <img src="./dark.svg" alt="Manish Karki — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
 </picture>
 
 <p align="center">
@@ -88,7 +88,7 @@ AI-powered platform combining an **AI prompt marketplace, Creator Hub and multip
 - **Next.js · MongoDB · Gemini API · AI workflows**
 
 ### 🚀 EasyFolio — Portfolio SaaS
-[Live Demo](https://easyfolio.wuwb.in/vaibhav_khushalani)
+[Live Demo](https://easyfolio.wuwb.in/manishkarki11)
 
 - Multi-user portfolio builder
 - Admin / sub-admin roles
@@ -98,7 +98,7 @@ AI-powered platform combining an **AI prompt marketplace, Creator Hub and multip
 - **Next.js · Turso/libSQL · Drizzle ORM · NextAuth**
 
 ### ⚡ Real-Time Multiplayer Tic Tac Toe
-[GitHub Repository](https://github.com/VaibhavKhushalani/tic-tac-toe)
+[GitHub Repository](https://github.com/manishkarki11/tic-tac-toe)
 
 - WebSocket-based multiplayer architecture
 - Room-based synchronization
@@ -106,7 +106,7 @@ AI-powered platform combining an **AI prompt marketplace, Creator Hub and multip
 - **Node.js · Socket.IO**
 
 ### 🌐 WUWB — Goal Tracking Platform
-[wuwb.in](https://wuwb.in)
+[wuwb.in](https://wuwb.np)
 
 - Full-stack goal tracking platform
 - User interaction and dynamic application workflows
@@ -147,7 +147,7 @@ I write about **backend engineering, AI products, performance and real-world eng
 - Subscription and payment systems
 - Production debugging and optimization
 
-[Read my articles on Medium →](https://medium.com/@vaibhavkhushalani)
+[Read my articles on Medium →](https://medium.com/@manishkarki11)
 
 ---
 
@@ -163,15 +163,15 @@ I write about **backend engineering, AI products, performance and real-world eng
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/manishkarki11/github-snake/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/manishkarki11/github-snake/output/github-snake.svg"
     />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/manishkarki11/github-snake/output/github-snake.svg"
     />
   </picture>
 </p>
@@ -181,10 +181,9 @@ I write about **backend engineering, AI products, performance and real-world eng
 ## 📫 Connect With Me
 
 <p>
-  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
-  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
-  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
-  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
+  🌐 <a href="https://easyfolio.wuwb.in/manishkarki11">Portfolio</a><br>
+  📝 <a href="https://medium.com/@manishkarki11">Medium</a><br>
+  📧 <a href="mailto:karkimk1@gmail.com">Email</a>
 </p>
 
 > **Build things. Automate the boring parts. Scale what matters.**
